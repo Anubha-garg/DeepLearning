@@ -1,2 +1,3 @@
 # DeepLearning
-Jupyter notebooks for processing datasets using Deep Neural Networks
+
+Jupyter notebooks for processing datasets using Deep Neural Networks.
